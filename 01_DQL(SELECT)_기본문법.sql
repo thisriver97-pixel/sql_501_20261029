@@ -364,7 +364,24 @@ ORDER BY
 	--------------------------------------------------------------			
 				
 -- 환자명, 병동
-				
+				/*
+				 * 1. git init
+2. git status
+3. git add . 1
+4. git commit -m "init : 저장소 초기화 작업"
+5. git commit -m "init : 저장소 초기화"  22
+6. git reomte add origin 주소 복붙.git
+7. git push origin master 333
+순서
+				 * 
+				 * 
+				 * 
+				 * 
+				 * 
+				 * 
+				 * 
+				 * 
+				 */
 SELECT 
 			PATIENT_NAME
 			,WARD_ID
